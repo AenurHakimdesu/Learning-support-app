@@ -9,7 +9,7 @@ git clone nama-repository
 Untuk Laragon letakkan di "www", untuk XAMPP letakan di htdocs
 
 ### 2. **Jalankan Local Host**
-
+Jalankan dengan localhost yang kamu punya
 ### 3. **Akses menggunakan Browser**
 masukan url
 ```bash
