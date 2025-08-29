@@ -1,6 +1,6 @@
 # Guide Book Project Learning-support-app
 
-## **Langkah-langkah Git**
+## **Langkah-langkah**
 
 ### 1. **Clone repository**
 ```bash
