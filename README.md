@@ -4,7 +4,7 @@
 
 ### 1. **Clone repository**
 ```bash
-git clone nama-repository
+git clone https://github.com/AenurHakimdesu/Learning-support-app.git
 ```
 Untuk Laragon letakkan di "www", untuk XAMPP letakan di htdocs
 
